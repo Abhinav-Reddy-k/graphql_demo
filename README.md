@@ -1,6 +1,6 @@
 # Graphql-demo
 
-Basics usage of graphql
+Basic usage of graphql
 
 
 ## Authors

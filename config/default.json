@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/BookStore",
+  "port": "4000",
+  "requiresAuth": false
+}

@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "jwt",
+  "db":"docker_db",
+  "debug":"DEBUG"
+}
